@@ -41,11 +41,14 @@ I am a **Senior Integration & DevOps Engineer** specializing in distributed syst
 
 ---
 
-### 📈 GitHub Activity & Impact
+### 📈 GitHub Contribution Rhythm
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrclo-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclo-devops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrclo-devops/mrclo-devops/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrclo-devops/mrclo-devops/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mrclo-devops/mrclo-devops/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
